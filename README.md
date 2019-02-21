@@ -1,6 +1,4 @@
-## https://resi360.herokuapp.com
-
-# Belly Button Biodiversity
+## Belly Button Biodiversity
 
 ![Bacteria by filterforge.com](Images/bacteria_by_filterforgedotcom.jpg)
 
@@ -49,30 +47,6 @@ Use Plotly.js to build interactive charts for your dashboard.
 
 Deploy your Flask app to Heroku.
 
-* You can use the provided sqlite file for the database.
 
-* Ask your Instructor and TAs for help!
-
-- - -
-
-## Advanced Challenge Assignment (Optional)
-
-The following task is completely optional and is very advanced.
-
-* Adapt the Gauge Chart from <https://plot.ly/javascript/gauge-charts/> to plot the Weekly Washing Frequency obtained from the route `/wfreq/<sample>`
-
-* You will need to modify the example gauge code to account for values ranging from 0 - 9.
-
-* Update the chart whenever a new sample is selected
-
-![Weekly Washing Frequency Gauge](Images/gauge.png)
-
-- - -
-
-## Flask API
-
-Use Flask API starter code to serve the data needed for your plots.
-
-* Test your routes by visiting each one in the browser.
 
 
